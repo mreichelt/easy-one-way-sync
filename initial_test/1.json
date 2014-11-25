@@ -1,0 +1,12 @@
+{
+	"persons": [
+		{
+			"name": "Marilyn Monroe",
+			"gender": "female"
+		},
+		{
+			"name": "Robert Downey Jr",
+			"gender": "male"
+		}
+	]
+}

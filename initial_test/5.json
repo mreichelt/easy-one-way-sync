@@ -1,0 +1,29 @@
+{
+	"persons": [
+		{
+			"id": 1,
+			"name": "Marilyn Monroe",
+			"gender": "female"
+		},
+		{
+			"id": 2,
+			"name": "Robert Downey Jr",
+			"gender": "male"
+		},
+		{
+			"id": 3,
+			"name": "Christian Bale",
+			"gender": "male"
+		},
+		{
+			"id": 4,
+			"name": "Cameron Diaz",
+			"gender": "female"
+		},
+		{
+			"id": 5,
+			"name": "Tom Hanks",
+			"gender": "male"
+		}
+	]
+}
